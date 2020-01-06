@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127719411206",
+    "firebase_url": "https://authentication-412d0.firebaseio.com",
+    "project_id": "authentication-412d0",
+    "storage_bucket": "authentication-412d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127719411206:android:136e5fc8061c0b2c093d87",
+        "android_client_info": {
+          "package_name": "com.learning.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127719411206-1tbc8h0tu4q15g6dscg9uno1kcuvf7au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi62eONc1Rr8GLoWXuyZc0DF76IPhbjn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127719411206-1tbc8h0tu4q15g6dscg9uno1kcuvf7au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
